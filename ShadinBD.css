@@ -1,0 +1,35 @@
+body {
+	background-color: #000;
+    font-size: 14px;
+    color: navy;
+}
+h1 {
+	background-color: lightblue ;
+
+
+
+
+
+}
+#navbar {
+background-color: #224863;
+	padding-top: 10px;
+	margin-left: 0;
+}
+
+#navBar ul li a {
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+
+
+
+#navbar2 ul li a {
+background-color: #224863;
+text-decoration: none;
+display: block;
+	
+	
+	
+}
