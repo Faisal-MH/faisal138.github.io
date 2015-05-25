@@ -2,26 +2,9 @@ body {
 	background-color:blue;
 }
 
-p {
-	color: #224863;
-}
 
 h1 {
-	font-family: 'Gloria Hallelujah', cursive;
-	text-align: center;
-}
-
-.importantQuote {
-	border-style: dashed;
-	border-width: 2px;
-	margin-right: 50px;
-	margin-left:50px;
-	padding: 25px;
-	font-size: 1.5em;
-}
-
-#mainContent {
-	margin-left: 150px;
+text-align: cente
 }
 
 #navBar {
@@ -34,18 +17,7 @@ h1 {
 	left:0;
 }
 
-#navBar ul li a {
-	text-decoration: none;
-	display: block;
-	color: #fff;
-}
-
-#navBar ul li a:hover {
-	background-color: #fff;
-	color: #000;
-}
 
 #navBar ul {
 	list-style-type: none;
-	margin-left: -10px;
-}
+	margin-left: 10px;
