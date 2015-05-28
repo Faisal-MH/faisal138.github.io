@@ -2,22 +2,42 @@ body {
 	background-color:blue;
 }
 
-
-h1 {
-text-align: cente
+p {
+	color: white;
+	margin : 0 50px;
 }
 
-#navBar {
+
+#navbar {
+	
 	background-color: #224863;
-	padding-top: 75px;
 	margin-left: 0;
-	position: fixed;
-	height: 100%;
 	top:0;
 	left:0;
 }
-
+	
+#navBar ul li a {
+	text-decoration: none;
+	color: #fff;
+	
+}
+#navBar ul {
+	list-style-type: none;
+	margin-left: -10px;
+	margin-left: 0;
+	top:0;
+	left:0;
+}
+	
+#navBar ul li a {
+	text-decoration: none;
+	color: #fff;
+	
+}
 
 #navBar ul {
 	list-style-type: none;
-	margin-left: 10px;
+	margin-left: -10px;
+
+h1 {
+	background-color: navy;
